@@ -4,7 +4,7 @@ This is a display of sample websites that I made using HTML and CSS.
 
 <h2>Projects</h2>
 
-[Space Station Site](https://github.com/TomSpencer-Dev/HTML_and_CSS_Projects/blob/main/index.html)<br>
+[Space Station Site](https://github.com/TomSpencer-Dev/HTML_and_CSS_Projects/blob/main/TheSpaceStation.html)<br>
 [Movie Theater Site](https://github.com/TomSpencer-Dev/HTML_and_CSS_Projects/blob/main/academy.cinemas.html)
 <br>
 
